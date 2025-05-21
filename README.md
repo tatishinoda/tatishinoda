@@ -1,7 +1,9 @@
 <h2>Hi 👋! My name is Tatiane</h2>
 
 ###
-🔭 I’m currently working as Front End Developer @ Alura<br>🌱 I’m learning Javascript and React<br>
+🔭 I’m currently working as Front End Developer @ Alura<br>
+🌱 I’m currently learning React e Next.js<br>
+
 
 
 ###
