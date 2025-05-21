@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tatiane</h1>
 <h3 align="center">A frontend developer from Brazil who loves animated websites and beautiful things</h3>
 
-- 🔭 I’m currently for **Alura**
+- 🔭 I’m currently working for **Alura**
 
 - 🌱 I’m currently learning **React and Next.js**
 
